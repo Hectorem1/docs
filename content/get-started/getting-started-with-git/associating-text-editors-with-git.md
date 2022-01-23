@@ -6,7 +6,7 @@ redirect_from:
   - /articles/using-textmate-as-your-default-editor
   - /articles/using-sublime-text-2-as-your-default-editor
   - /articles/associating-text-editors-with-git
-  - /github/using-git/associating-text-editors-with-git
+  - /github/using-git/associating- IItext-editors-with-git
   - /github/getting-started-with-github/associating-text-editors-with-git
   - /github/getting-started-with-github/getting-started-with-git/associating-text-editors-with-git
 versions:
